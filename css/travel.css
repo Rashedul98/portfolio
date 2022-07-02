@@ -1,0 +1,70 @@
+.cock{
+    background-color:rgb(2, 54, 122);
+    color: aliceblue;
+    border: 5px solid #DAA520;
+    border-radius: 20px;
+    margin: 40px 10px 100px 20px;
+    padding: 40px 10px 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.AN1{
+    color: #DAA520;
+    
+}
+.ban{
+    background-color:rgb(2, 54, 122);
+    color: aliceblue;
+    border: 5px solid #DAA520;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin: 40px 10px 100px 20px;
+    padding: 40px 10px 100px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.ban h3{
+    text-align: center;
+}
+.sha{
+    background-color: rgb(2, 54, 122);
+    color: aliceblue;
+    border: 5px solid #DAA520;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin: 40px 10px 100px 20px;
+    padding: 40px 10px 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.sha h3{
+text-align: center;
+}
+span{
+    color: #DAA520;
+}
+.shaa{
+    color: #DAA520;
+}
+
+.cock h3{
+    text-align: center;
+}
+
+.cock p{
+    text-align: justify;
+    
+}
+.sha p{
+    text-align: cen;
+}
